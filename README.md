@@ -29,3 +29,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsaar&show_icons=true&locale=en&layout=compact" alt="top-langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=mohsaar&show_icons=true&locale=en&theme=radical" alt="stats" />
 </p>
+# 👋 Hello, I'm Mohamed Hassan Saar
+
+A passionate **Security Researcher** & **Computer Science Graduate**. 
+Combining deep technical knowledge in software engineering with a offensive security mindset.
+
+---
+
+### 🛡️ Cybersecurity Expertise
+*   **Certifications:** CompTIA (A+, Network+, Security+), eJPT, OSCP (In progress/Certified).
+*   **Hands-on Experience:** Extensive labs solving (PortSwigger, DVWA), Web CTFs, and active Bug Bounty hunting.
+*   **Tooling:** Proficient with Burp Suite, Metasploit, and custom automation scripts (Python).
+*   **Methodology:** Active reader of security write-ups and maintainer of [bounty-brain](link-to-your-repo).
+
+### 🚀 Key Projects & Academic Highlights
+*   **GallCare (Graduation Project):** An AI-powered diagnostic system capable of identifying 9 types of gallbladder diseases. (Focused on secure development & implementation).
+*   **Compiler Design:** Built a custom compiler from scratch using Assembly and custom language design.
+*   **Dockerized Infrastructure:** Deployed secure backend environments (PostgreSQL, Redis, MongoDB) using Docker Compose.
+
+### 💻 Technical Stack
+*   **Languages:** Python (Automation/Scripting), C++/C# (OOP), PHP, Node.js, JavaScript, Assembly, Lisp.
+*   **Databases:** SQL & NoSQL (PostgreSQL, Redis, MongoDB).
+*   **OS & Low-Level:** Advanced Linux proficiency, Operating Systems internals, Compiler Construction.
+*   **AI & ML:** NLP & Machine Learning models (Applied in GallCare).
+
+### 🎓 Continuous Learning
+*   **Internships:** NTI Internship (Fortinet Security focus).
+*   **Reading:** Deep dive into web security (e.g., *The Tangled Web*), Playbook methodologies, and constant practice of problem-solving.
+
+---
+📫 **Connect with me:** [www.linkedin.com/in/
+] | [https://x.com/0xmohsaar] | [https://medium.com/@0xmohsaar]
