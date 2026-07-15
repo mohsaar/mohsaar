@@ -40,7 +40,7 @@ Combining deep technical knowledge in software engineering with a offensive secu
 *   **Certifications:** CompTIA (A+, Network+, Security+), eJPT, OSCP (In progress/Certified).
 *   **Hands-on Experience:** Extensive labs solving (PortSwigger, DVWA), Web CTFs, and active Bug Bounty hunting.
 *   **Tooling:** Proficient with Burp Suite, Metasploit, and custom automation scripts (Python).
-*   **Methodology:** Active reader of security write-ups and maintainer of [bounty-brain](link-to-your-repo).
+*   **Methodology:** Active reader of security write-ups and maintainer of [Vulnerability-Vault]([link-to-your-repo](https://github.com/mohsaar/Vulnerability-Vault)).
 
 ### 🚀 Key Projects & Academic Highlights
 *   **GallCare (Graduation Project):** An AI-powered diagnostic system capable of identifying 9 types of gallbladder diseases. (Focused on secure development & implementation).
