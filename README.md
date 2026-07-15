@@ -15,4 +15,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsaar&show_icons=true&locale=en&layout=compact" alt="mohsaar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsaar&show_icons=true&locale=en" alt="mohsaar" /></p>
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsaar&show_icons=true&theme=radical)
+<p align="left">
+  <a href="https://github.com/mohsaar">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohsaar&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
+  </a>
+</p>
