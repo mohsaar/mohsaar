@@ -59,6 +59,11 @@ Combining deep technical knowledge in software engineering with a offensive secu
 *   **Internships:** NTI Internship (Fortinet Security focus).
 *   **Reading:** Deep dive into web security (e.g., *The Tangled Web*), Playbook methodologies, and constant practice of problem-solving.
 
+  ---
+### 🛠 Explore All Projects
+I have many other repositories covering different areas of security and software engineering. 
+**[Click here to see all my repositories](https://github.com/mohsaar?tab=repositories)**
+
 ---
 📫 **Connect with me:** [www.linkedin.com/in/
 ] | [https://x.com/0xmohsaar] | [https://medium.com/@0xmohsaar]
